@@ -9,7 +9,7 @@ Each repository artefact now tells a concise economics‑grounded story covering
 | banking_call_prediction.ipynb | Predict customer response to tele‑marketing | banking_call_prediction.md
 | SQL_attrition_project.sql | Identify drivers of employee attrition | SQL_attrition_project.md
 | Sql_fianace_analysis project.sql | Build loan book performance dashboards | Sql_fianace_analysis project.md
-| Direct Marketing Campaign Optimization.pptx |  Direct Marketing Campaign Optimization.md
+| Direct Marketing Campaign Optimization.pptx |  Direct Marketing Campaign Optimization |Direct Marketing Campaign Optimization.md
 | tablue projects.twb | Interactive dashboards |  tablue projects.md
 
 
