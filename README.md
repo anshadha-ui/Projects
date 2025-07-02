@@ -2,8 +2,8 @@
  _“Numbers tell a story; economics gives them a plot.”_ ✨
 Each repository artefact now tells a concise economics‑grounded story covering the **problem, analytical approach, and business impact**.
 
-| File | One‑line Purpose |
-|------|------------------|
+| File | One‑line Purpose | Explanation and connecting the dots to real world
+|------|------------------|---------------------------------|
 | BANK_FINANCE_PROJECT.ipynb | ML model to predict loan default | project explanation and buisness connection links : BANK_FINANCE_PROJECT.md
 | ML_AI_Banking risk.ipynb | Automated risk grading per Basel III |project explanation and buisness connection links : ML_AI_Banking risk.md
 | banking_call_prediction.ipynb | Predict customer response to tele‑marketing |project explanation and buisness connection links : 
