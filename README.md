@@ -1,6 +1,5 @@
 # Project Portfolio – Economics Storytelling Edition
-
-Welcome to the Mastercard‑ready version of my analytics portfolio.  
+ 
 Each repository artefact now tells a concise economics‑grounded story covering the **problem, analytical approach, and business impact**.
 
 | File | One‑line Purpose |
@@ -13,8 +12,6 @@ Each repository artefact now tells a concise economics‑grounded story covering
 | Direct Marketing Campaign Optimization.pptx | Exec‑level presentation of targeting uplift |
 | tablue projects.twb | Interactive dashboards |
 
-👉 **How to use**  
-1. Copy each `*.md` file into the repo root (or alongside its artefact).  
-2. Push to GitHub – ATS parsers at Mastercard will pick up these READMEs automatically.  
+
 
 _“Numbers tell a story; economics gives them a plot.”_ ✨
