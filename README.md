@@ -4,13 +4,13 @@ Each repository artefact now tells a concise economics‑grounded story covering
 
 | File | One‑line Purpose | Explanation and connecting the dots to real world
 |------|------------------|---------------------------------|
-| BANK_FINANCE_PROJECT.ipynb | ML model to predict loan default | project explanation and buisness connection links : BANK_FINANCE_PROJECT.md
-| ML_AI_Banking risk.ipynb | Automated risk grading per Basel III |project explanation and buisness connection links : ML_AI_Banking risk.md
-| banking_call_prediction.ipynb | Predict customer response to tele‑marketing |project explanation and buisness connection links : 
-| SQL_attrition_project.sql | Identify drivers of employee attrition |project explanation and buisness connection links : banking_call_prediction.md
-| Sql_fianace_analysis project.sql | Build loan book performance dashboards |project explanation and buisness connection links : SQL_attrition_project.md
-| Direct Marketing Campaign Optimization.pptx | Exec‑level presentation of targeting uplift |project explanation and buisness connection links : Direct Marketing Campaign Optimization.md
-| tablue projects.twb | Interactive dashboards |project explanation and buisness connection links :  tablue projects.md
+| BANK_FINANCE_PROJECT.ipynb | ML model to predict loan default | BANK_FINANCE_PROJECT.md
+| ML_AI_Banking risk.ipynb | Automated risk grading per Basel III | ML_AI_Banking risk.md
+| banking_call_prediction.ipynb | Predict customer response to tele‑marketing | banking_call_prediction.md
+| SQL_attrition_project.sql | Identify drivers of employee attrition | SQL_attrition_project.md
+| Sql_fianace_analysis project.sql | Build loan book performance dashboards | Sql_fianace_analysis project.md
+| Direct Marketing Campaign Optimization.pptx |  Direct Marketing Campaign Optimization.md
+| tablue projects.twb | Interactive dashboards |  tablue projects.md
 
 
 
